@@ -1,0 +1,19 @@
+@import url(https://fonts.googleapis.com/css2?family=Poppins&display=swap);
+
+html, body {
+    height:100%;
+    width:100%;
+    margin:0;
+    padding:0;
+}
+
+h1 {
+    font-family: "Poppins",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    color: #b0ecea;
+    font-weight: 700;
+}
+.f1 {
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
